@@ -123,6 +123,6 @@
     (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4))
     (style (thickness 0.1) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
   )
-  (pad "1" thru_hole circle (at -9 0) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 9e8cc4a6-cda2-45f8-b38f-a0d491702975))
-  (pad "2" thru_hole circle (at 9 0) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 4d1ce31b-727a-4557-812e-f3763794ee0b))
+  (pad "1" thru_hole circle (at -9 0) (size 3 3) (drill 2) (layers "*.Cu" "*.Mask") (tstamp 9e8cc4a6-cda2-45f8-b38f-a0d491702975))
+  (pad "2" thru_hole circle (at 9 0) (size 3 3) (drill 2) (layers "*.Cu" "*.Mask") (tstamp 4d1ce31b-727a-4557-812e-f3763794ee0b))
 )
